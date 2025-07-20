@@ -4,7 +4,7 @@
 
 Rize'deki anaokulları için ücretsiz, renkli ve eğitici web şablonu. Bootstrap 5 ile geliştirildi.
 
-**[Canlı Demo](https://ak-hosting.github.io/ak-kindergarten/)** | **[Özelleştirme Talebi](mailto:ak@ak-pro.com)**
+**[Canlı Demo](https://ak-hosting.github.io/ak-preschool/)** | **[Özelleştirme Talebi](mailto:ak@ak-pro.com)**
 
 ## 🎨 Temel Özellikler
 
@@ -21,8 +21,8 @@ Rize'deki anaokulları için ücretsiz, renkli ve eğitici web şablonu. Bootstr
 ### Docker ile (Önerilen)
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/ak-hosting/ak-kindergarten.git
-cd ak-kindergarten
+git clone https://github.com/ak-hosting/ak-preschool.git
+cd ak-preschool
 
 # Docker container'ı başlatın
 docker run -d -p 8080:80 -v $(pwd):/usr/share/nginx/html nginx:alpine
@@ -34,8 +34,8 @@ open http://localhost:8080
 ### Manuel Kurulum
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/ak-hosting/ak-kindergarten.git
-cd ak-kindergarten
+git clone https://github.com/ak-hosting/ak-preschool.git
+cd ak-preschool
 
 # Python HTTP server başlatın
 python3 -m http.server 8000
@@ -47,8 +47,8 @@ open http://localhost:8000
 ### Node.js ile
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/ak-hosting/ak-kindergarten.git
-cd ak-kindergarten
+git clone https://github.com/ak-hosting/ak-preschool.git
+cd ak-preschool
 
 # npx serve ile başlatın
 npx serve .
@@ -60,7 +60,7 @@ open http://localhost:3000
 ## 📁 Proje Yapısı
 
 ```
-ak-kindergarten/
+ak-preschool/
 ├── index.html              # Ana sayfa
 ├── assets/
 │   ├── css/
@@ -69,7 +69,7 @@ ak-kindergarten/
 │   ├── js/
 │   │   ├── main.js         # Genel fonksiyonlar
 │   │   └── calendar.js     # Etkinlik takvimi
-│   └── images/             # Görseller (gelecekte eklenecek)
+│   └── images/             # Görseller
 ├── README.md               # Bu dosya
 ├── CUSTOMIZATION.md        # Özelleştirme rehberi
 └── LICENSE                 # MIT lisansı
@@ -242,9 +242,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📈 İstatistikler
 
-![GitHub stars](https://img.shields.io/github/stars/ak-hosting/ak-kindergarten)
-![GitHub forks](https://img.shields.io/github/forks/ak-hosting/ak-kindergarten)
-![GitHub issues](https://img.shields.io/github/issues/ak-hosting/ak-kindergarten)
+![GitHub stars](https://img.shields.io/github/stars/ak-hosting/ak-preschool)
+![GitHub forks](https://img.shields.io/github/forks/ak-hosting/ak-preschool)
+![GitHub issues](https://img.shields.io/github/issues/ak-hosting/ak-preschool)
 
 ---
 
