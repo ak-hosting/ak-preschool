@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="Ogretmen 2">
+  <rect width="900" height="900" fill="#166534"/>
+  <circle cx="738" cy="180" r="162" fill="#fbbf24" opacity="0.18"/>
+  <circle cx="162" cy="702" r="180" fill="#fbbf24" opacity="0.12"/>
+  <rect x="63" y="108" width="774" height="684" rx="32" fill="none" stroke="#ffffff" stroke-opacity="0.24" stroke-width="6"/>
+  <text x="90" y="378" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="81" font-weight="700">Ogretmen 2</text>
+  <text x="90" y="486" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="37">Yerel demo placeholder</text>
+</svg>
