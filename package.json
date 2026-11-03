@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"test":"node scripts/validate.mjs","lint":"node --check assets/js/main.js && node --check scripts/validate.mjs","build":"npm run test"}}
